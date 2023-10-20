@@ -23,7 +23,7 @@ public abstract class Hogwarts {
         } else if (magicSum < magicSum2) {
             System.out.println("Студент 2 сильнее 1");
         } else {
-            System.out.println("Студенты равны");
+            System.out.println("Студенты равны ");
         }
     }
 }

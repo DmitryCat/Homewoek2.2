@@ -29,9 +29,9 @@ public class Gryffindor extends Hogwarts {
         return "Студент Гриффирдора: " +
                 "Храбрость= " + bravery +
                 ", Честь= " + honour +
-                ", Благородство= " + nobility +
+                ", Благородство=" + nobility +
                 ", Магическая числа= " + magicPower +
-                ", Трансгрессия= " + transgression +
+                ", Трансгрессия=" + transgression +
                 '.';
     }
 

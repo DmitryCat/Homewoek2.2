@@ -31,7 +31,7 @@ public class Hufflepuff extends Hogwarts {
         return "Студент Пуффендуя " +
                 "Трудолюбие= " + hardworking +
                 ", Верность= " + loyal +
-                ", Честность= " + honest +
+                ", Честность=" + honest +
                 ", Магическая сила= " + magicPower +
                 ", Трансгрессия= " + transgression +
                 '.';
