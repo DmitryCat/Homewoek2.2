@@ -51,7 +51,7 @@ public class Ravenclaw extends Hogwarts {
         } else if (magicSum2 < magicSum) {
             System.out.println("Студент 1 сильнее студента 2");
         } else {
-            System.out.println("Студенты равны");
+            System.out.println("Студенты равны ");
         }
     }
 }
